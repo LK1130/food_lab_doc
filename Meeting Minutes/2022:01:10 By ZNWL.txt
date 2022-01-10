@@ -1,0 +1,38 @@
+Date:(01/10)
+
+Title :Report
+Speaker:LK,ZY
+Talk Note:
+-Checking Code Rules
+-Admin Add (finish)
+-Admin List table creating
+-Need to Create Common Css for ROOT
+-need validate for select box at admin add
+-Database Conflit error(Now Ok)
+
+Title :Report
+Speaker:Lk,AMK
+Talk Note: 
+-2 product add Form
+-AMK demo Design
+-Design FLow logic meeting
+-ZNWL draw Design For admin page product List
+-CPPK Draw Desgin for Customer page product List
+
+Title :Report
+Speaker:Lk,MK
+Talk Note: 
+-Database table create and adding Forgrine Key
+-About Customer Home page error
+-Discuss About Customer Page PHOTOS
+
+Title :Report
+Speaker:Lk,CPPK
+Talk Note:
+-Checking Code Rules
+
+
+Title :Report
+Speaker:Lk,ZNWL
+Talk Note:
+-checking Admin Layout
