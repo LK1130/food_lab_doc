@@ -1,0 +1,51 @@
+Date:(01/13)
+Meeting Minute
+
+
+Title :
+Speaker:LK
+Talk Note:
+-Checking  Naming Rule
+-To Write Comment
+-Checking Folder
+-Checking Database Fieldname and fix
+- t_ad_coinrate_history
+  t_ad_evd
+  m_ad_coinrate
+  t_ad_order Drop and mirgate back
+
+Title :Validating
+Speaker:LK,ZY
+Talk Note:
+-Coin Rate Histroy (Validate Error)
+-Arrange schedule
+
+
+Title :Datbase Forgetting  character 'D' at updatetime
+Speaker:Lk,AMK
+Talk Note: 
+-Demo Prouduct Admin Site 50% complete
+
+
+Title :Report
+Speaker:Lk,MK
+Talk Note: 
+-Customer Footer Page 
+- Ad_News(backend) to join with database
+- To add New Fieldname 'Public' at m_ad_news (Show 0 : Hide 1) 
+- About Button Color (Customer Site) css :Background : white color : red border : red;
+- Arrange Schedule
+
+
+Title :Report
+Speaker:Lk,CPPK
+Talk Note:
+-Chart join with Database (Server Site) 15%
+- Arrange Schedule
+
+
+Title :Report
+Speaker:Lk,ZNWL
+Talk Note:
+-Dashboard Data Input Output (Customer Site)
+-Design 60% overall
